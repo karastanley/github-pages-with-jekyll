@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Kara's Site"
 ---
 
-I'm glad you are here. I plan to talk about ...
+I'm the greatest tour guide in the world.
